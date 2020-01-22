@@ -4,3 +4,4 @@ uwsgi --build-plugin https://github.com/Datadog/uwsgi-dogstatsd
 
 uwsgi app.ini
 
+#!/bin/sh
